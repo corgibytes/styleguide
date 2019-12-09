@@ -1,13 +1,13 @@
 # Middleman with Markdown Submodule Example
 
-This is an example project using [Middleman](https://middlemanapp.com) and pulling in our [Style Guide](https://github.com/mailchimp/content-style-guide) as a submodule.
+This is an example project using [Middleman](https://middlemanapp.com) and pulling in our [Style Guide](https://github.com/Corgibytes/content-style-guide) as a submodule.
 
 ## Installation
 Requires Ruby 2.2.5 and Bundler
 
 Clone the repo:
 ``` bash
-git clone git@github.com:mailchimp/middleman-with-md-submodule-example.git
+git clone git@github.com:Corgibytes/middleman-with-md-submodule-example.git
 cd middleman-with-md-submodule-example
 ```
 
@@ -35,7 +35,7 @@ View it at `http://localhost:4567/`
 
 ## Add Your Own Style Guide
 
-Fork your own version of our [Style Guide](https://github.com/mailchimp/content-style-guide). You'll need to change out the submodule with your forked version.
+Fork your own version of our [Style Guide](https://github.com/Corgibytes/content-style-guide). You'll need to change out the submodule with your forked version.
 
 First, remove the old Style Guide:
 

@@ -7,13 +7,13 @@ We send a lot of email ourselves, and we follow our own best practices to set an
 
 ## Basics
 
-Our email newsletters help empower and inform MailChimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform Corgibytes users. Here are the most common types of content we send by email:
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
 - Regular monthly newsletters
-- Industry-based newsletters (MailChimp for Nonprofits)
-- Automated series (Getting Started with MailChimp)
+- Industry-based newsletters (Corgibytes for Nonprofits)
+- Automated series (Getting Started with Corgibytes)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
 - Internal newsletters
@@ -48,11 +48,11 @@ Make the next step clear. Whether you’re asking people to buy something, read 
 
 #### Footer
 
-All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
+All campaigns follow [CAN-SPAM rules](http://kb.Corgibytes.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
 ### Consider your perspective
 
-When sending an email newsletter from MailChimp, use the third person “we.” When sending a newsletter as an individual, use the first person.
+When sending an email newsletter from Corgibytes, use the third person “we.” When sending a newsletter as an individual, use the first person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.

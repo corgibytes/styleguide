@@ -17,14 +17,14 @@ Adhering to certain rules of grammar and mechanics helps us keep our writing cle
 
 **Be consistent.** Stick to the copy patterns and style points outlined in this guide.
 
+**Be accurate.** Use correct technical terms, paying special attention to spelling and capitalization. Details matter.
+
 ## Guidelines
 
 ### Abbreviations and acronyms
 
 If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
 
-- First use: Network Operations Center
-- Second use: NOC
 - First use: Coordinated Universal Time (UTC)
 - Second use: UTC
 
@@ -51,8 +51,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@mailchimp.com
-- mailchimp.com
+- ein@corgibytes.com
+- corgibytes.com
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
@@ -65,9 +65,9 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
 
-### Emoji
+### Emoji & Animated GIFs
 
-Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
+Emoji and animated gifs are a fun way to add humor and visual interest to your writing. We enjoy using them liberally for internal conversations, such as on Slack, but use them infrequently and deliberately for external-facing content.
 
 ### Numbers
 
@@ -88,7 +88,7 @@ Write out big numbers in full. Abbreviate them if there are space restraints, as
 
 #### Dates
 
-Spell out the day of the week and abbreviate the month, unless you’re just referring to the month or the month and the year.
+Corgibytes uses the American date convention - Month/Day/Year. Spell out the day of the week and abbreviate the month, unless you’re just referring to the month or the month and the year.
 
 - Saturday, Jan. 24
 - Saturday, Jan. 24, 2015
@@ -149,7 +149,7 @@ Use a hyphen between times to indicate a time period. 
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since MailChimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Even though Corgibytes team members live all over the world, our "homebase" timezone is U.S. Eastern Time.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -180,6 +180,11 @@ The apostrophe’s most common use is making a word possessive. If the word alre
 - The donut thief ate Chris’s donut.
 - The donut thief ate the managers’ donuts.
 
+Treat Corgibytes as a plural when making it posessive.
+
+- Yes: Corgibytes'
+- No: Corgibytes's
+
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
 
 #### Colons
@@ -208,18 +213,17 @@ Use a hyphen (-) without spaces on either side to link words into single phrase,
 - first-time user
 - Monday-Friday
 
-Use an em dash (—) without spaces on either side to offset an aside.
+Use an em dash (—) with spaces on either side to offset an aside.
 
 Use a true em dash, not hyphens (- or --).
 
-- Multivariate testing—just one of our new Pro features—can help you grow your business.
-- Austin thought Brad was the donut thief, but he was wrong—it was Lain.
+- The strangler pattern — an effective way to transform a software system's architecture — was named after an Australian fig tree.
 
 #### Ellipses
 
 Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
-- “Where did all those donuts go?” Christy asked. Lain said, “I don't know...”
+- “Where did all those donuts go?” Malik asked. Phoenix said, “I don't know...”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
@@ -249,12 +253,12 @@ Never use exclamation points in failure messages or alerts. When in doubt, avoid
 
 Use quotes to refer to words and letters, titles of short works (like articles and poems), and direct quotations.
 
-Periods and commas go within quotation marks. Question marks within quotes follow logic—if the question mark is part of the quotation, it goes within. If you’re asking a question that ends with a quote, it goes outside the quote.
+Periods and commas go within quotation marks. Question marks within quotes follow logic — if the question mark is part of the quotation, it goes within. If you’re asking a question that ends with a quote, it goes outside the quote.
 
 Use single quotation marks for quotes within quotes.
 
 - Who was it that said, “A fool and his donut are easily parted”?
-- Brad said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
+- Rajesh said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
 
 #### Semicolons
 
@@ -287,7 +291,7 @@ When referring to a specific file, the filename should be lowercase:
 
 #### Pronouns
 
-If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
+Use the pronouns that people use to identify themselves. If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Some individuals may also prefer using "they/them" pronouns. Don’t use “one” as a pronoun.
 
 For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
 
@@ -295,7 +299,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using MailChimp has helped our business grow,” says Jamie Smith.
+- “Using Corgibytes has helped our business grow,” says Ang Patel.
 
 #### Names and titles
 
@@ -318,7 +322,7 @@ Spell out all city and state names. Don’t abbreviate city names.
 
 Per AP Style, all cities should be accompanied by their state, with the exception of: Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, Milwaukee, Minneapolis, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle, Washington.
 
-On first mention, write out United States. On subsequent mentions, US is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
+On first mention, write out United States. On subsequent mentions, U.S. is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
 
 #### URLs and websites
 
@@ -326,20 +330,13 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about MailChimp
+#### Writing about Corgibytes
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "MailChimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "MailChimp."
+Our company's legal entity name is "Corgibytes, LLC." Use "Corgibytes, LLC" only when writing legal documents or contracts. Otherwise, use "Corgibytes."
 
-Always capitalize the first “M” and the “C” in MailChimp.
+Always capitalize the first “C” Corgibytes. The "b" in the middle is lowercase.
 
-Refer to MailChimp as “we,” not “it.”
-
-Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention.
-
-- MailChimp Pro
-- MailChimp Snap
-- Inbox Inspector
-- Look What You Can Do
+Refer to Corgibytes as “we,” not “it.”
 
 #### Writing about other companies
 
@@ -355,7 +352,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions that help us better horizontally scale our database infrastructure.
+- In a recent project, we focused on optimizing performance. One way we did this is with shards, or partitions that helped us better horizontally scale the database infrastructure.
 
 ### Text formatting
 
@@ -364,7 +361,7 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app MailChimp element, or referencing button and navigation labels in step-by-step instructions:
+Use italics when citing an example of an in-app Corgibytes element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
 - The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.

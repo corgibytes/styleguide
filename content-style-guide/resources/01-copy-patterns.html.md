@@ -34,13 +34,13 @@ layout: article
 
 ### On the website
 
-- About MailChimp
+- About Corgibytes
 - Abuse Desk
 - API Docs
 - Application Feedback
 - Blog
 - Brand Assets
-- Contact MailChimp
+- Contact Corgibytes
 - Email Design Reference
 - Experts
 - Features
@@ -284,11 +284,11 @@ layout: article
 
 ### On the website
 
-- Contact MailChimp
+- Contact Corgibytes
 - Existing Users
 - Get Started With a Free Account
 - Log In
-- MailChimp Experts Application
+- Corgibytes Experts Application
 - Report Email Abuse
 - SOC II Report Request
 
@@ -331,7 +331,7 @@ layout: article
 - Email address
 - First name
 - Last name
-- MailChimp username
+- Corgibytes username
 - Message
 - Name
 - Subject
@@ -375,7 +375,7 @@ layout: article
 - Calculate your monthly costs
 - Find [item]
 - Follow us [in/on/around a location]
-- Learn more about MailChimp
+- Learn more about Corgibytes
 - Please [perform action].
 - Sign up for [specific mailing list]
 - Sign up to [receive specific notifications]

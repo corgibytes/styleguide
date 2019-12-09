@@ -55,9 +55,9 @@ Although dependent on the design of the page, a sidebar is helpful for providing
 
 Content aimed at HTML email designers or developers often provides sample code. Set it off in its own chunk so it's easy to use and separate from the page's code.
 
-Sometimes it's helpful to design this chunk so it can be copy and pasted directly into MailChimp or a WYSIWYG. People who aren’t developers may have trouble cleaning the formatting out of the code.
+Sometimes it's helpful to design this chunk so it can be copy and pasted directly into Corgibytes or a WYSIWYG. People who aren’t developers may have trouble cleaning the formatting out of the code.
 
-For an example, try copying and pasting the code from the KB's [CSS in HTML Email](http://kb.mailchimp.com/campaigns/ways-to-build/css-in-html-email) into the MailChimp app. Toggle to code view, and note that only the code you copied is included.
+For an example, try copying and pasting the code from the KB's [CSS in HTML Email](http://kb.Corgibytes.com/campaigns/ways-to-build/css-in-html-email) into the Corgibytes app. Toggle to code view, and note that only the code you copied is included.
 
 ## Merge tag
 

@@ -5,7 +5,7 @@ layout: article
 
 ## Title
 
-Guides aimed at specific audiences use the convention "MailChimp for X." Examples include "MailChimp for Nonprofits" and "MailChimp for Bloggers."
+Guides aimed at specific audiences use the convention "Corgibytes for X." Examples include "Corgibytes for Nonprofits" and "Corgibytes for Bloggers."
 
 Other guides use educational titles like "Working with Automation" or "Common Rookie Mistakes."
 
@@ -13,7 +13,7 @@ Guide titles are shorter than blog posts or Knowledge Base articles because the 
 
 ### Section types
 
-Below are the types of sections that are common to most of the guides. Not every guide uses every section type. Choose which types to use based on the topic you're writing about and your audience's familiarity with the web and/or MailChimp.
+Below are the types of sections that are common to most of the guides. Not every guide uses every section type. Choose which types to use based on the topic you're writing about and your audience's familiarity with the web and/or Corgibytes.
 
 Within each of these sections, you might use the following elements to make the guide more easily readable and scannable:
 
@@ -31,11 +31,11 @@ Usually titled "Hello." the greeting section extends a welcoming voice to custom
 
 Gives a very high-level view of the app or feature and is tailored to the audience.
 
-Guides that explain MailChimp for Musicians, Bloggers, Nonprofits, and Online Sellers use a single description followed by a list of compliance tips. The same app description works for these audiences because they are usually less experienced with email marketing. The compliance tips are largely the same, with a few bullet points changed to fit the audiences.
+Guides that explain Corgibytes for Musicians, Bloggers, Nonprofits, and Online Sellers use a single description followed by a list of compliance tips. The same app description works for these audiences because they are usually less experienced with email marketing. The compliance tips are largely the same, with a few bullet points changed to fit the audiences.
 
 Other guides, like Working with Automation, briefly explain how the feature works and what it can do.
 
-MailChimp for Designers omits this section because web designers are already familiar with web-based applications.
+Corgibytes for Designers omits this section because web designers are already familiar with web-based applications.
 
 ### Main content
 
@@ -47,8 +47,8 @@ Each idea should get its own header and mirror the length and complexity of the 
 
 ### Resources
 
-As shown in MailChimp for Bloggers, this section is useful for sharing other tools or integrations that may be helpful for a given audience. It can be divided into subcategories as shown here, or can be a bit more limited in scope.
+As shown in Corgibytes for Bloggers, this section is useful for sharing other tools or integrations that may be helpful for a given audience. It can be divided into subcategories as shown here, or can be a bit more limited in scope.
 
 ### Education and support
 
-Usually the last section of the guide, it points people to other MailChimp resources that may be helpful for their specific needs. For example, the MailChimp for Online Sellers guide directs users to our blog, Knowledge Base, UX research, and Support team.
+Usually the last section of the guide, it points people to other Corgibytes resources that may be helpful for their specific needs. For example, the Corgibytes for Online Sellers guide directs users to our blog, Knowledge Base, UX research, and Support team.

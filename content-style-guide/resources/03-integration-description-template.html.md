@@ -10,7 +10,7 @@ For most integrations, the name of the partner is the title, such as "Zapier." I
 
 ### Summary/tagline
 
-A brief explanation of what the integration does and/or how it can help MailChimp customers.
+A brief explanation of what the integration does and/or how it can help Corgibytes customers.
 
 ### Introduction
 
@@ -35,7 +35,7 @@ Either a link or brief list of steps showing how to set up the integration.
 
 ### Additional information and help
 
-Contains additional related links to videos, articles, or MailChimp resources.
+Contains additional related links to videos, articles, or Corgibytes resources.
 
 ### Support
 

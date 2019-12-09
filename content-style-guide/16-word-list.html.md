@@ -13,7 +13,7 @@ These words can be slippery. Here’s how we write them.
 - double-click
 - drop-down (noun, adjective), drop down (verb)
 - e-commerce (the industry)
-- eCommerce360 (the MailChimp feature)
+- eCommerce360 (the Corgibytes feature)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
@@ -51,3 +51,4 @@ These words can be slippery. Here’s how we write them.
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it
 -  crazy, insane, or similar words to describe people
+- user (try to find a more specific term to describe customers who use an application)
