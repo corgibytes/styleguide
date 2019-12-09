@@ -21,7 +21,6 @@ One way to think of our voice is to compare what it is to what it isn’t. Corgi
 * Confident but not cocky
 * Smart but not stodgy
 * Informal but not sloppy
-* Helpful but not overbearing
 * Expert but not bossy
 * Precise but not pedantic
 
